@@ -1,9 +1,9 @@
 {
-    "name": "AhMyth",
-    "description": "Android Remote Administration Tool",
-    "author": "AhMyth <AhMyth@protonmail.com>",
-    "productName": "AhMyth",
-    "version": "1.0.0",
+    "name": "By丶小叅 私人版",
+    "description": "By丶小叅 私人版",
+    "author": "By丶小叅 <xiaocan@protonmail.com>",
+    "productName": "By丶小叅",
+    "version": "2.0.1",
     "homepage":"https://github.com/AhMyth/AhMyth-Android-RAT",
     "main": "main.js",
     "dependencies": {
